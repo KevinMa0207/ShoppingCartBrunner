@@ -1,0 +1,5 @@
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\BrunnerTest\bin\Debug\BrunnerTest.dll
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\BrunnerTest\bin\Debug\BrunnerTest.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\BrunnerTest\obj\Debug\BrunnerTest.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\BrunnerTest\obj\Debug\BrunnerTest.dll
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\BrunnerTest\obj\Debug\BrunnerTest.pdb

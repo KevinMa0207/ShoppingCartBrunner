@@ -1,0 +1,8 @@
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\ShoppingCart\bin\Debug\ShoppingCart.exe
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\ShoppingCart\bin\Debug\ShoppingCart.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\ShoppingCart\obj\Debug\ShoppingCart.exe
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\ShoppingCart\obj\Debug\ShoppingCart.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\ShoppingCart\bin\Debug\BrunnerTest.dll
+c:\users\kevin\documents\visual studio 2015\Projects\BrunnerTest\ShoppingCart\bin\Debug\BrunnerTest.pdb
